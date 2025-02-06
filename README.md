@@ -9,7 +9,7 @@ This repository contains **lab exercises, assignments, and practical implementat
 It includes hands-on coding tasks, datasets, and solutions covering key **ML algorithms, data preprocessing, model evaluation, and more**.  
 
 
-## 🚀 Topics Covered  
+#### 🚀 Topics Covered  
 ✅ **Data Preprocessing** (Handling missing values, feature scaling, encoding)  
 ✅ **Supervised Learning** (Linear Regression, Decision Trees, SVM, etc.)  
 ✅ **Unsupervised Learning** (K-Means, PCA, Clustering)  
