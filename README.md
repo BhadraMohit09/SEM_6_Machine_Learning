@@ -34,7 +34,7 @@ It includes hands-on coding tasks, datasets, and solutions covering key **ML alg
 3. Install Dependencies:
    ```sh
    pip install -r requirements.txt
-4. Open Jupyter Notebook and run the script
+4. Open Jupyter Notebook and run the script:
    ```sh
    jupyter notebook
    ```
