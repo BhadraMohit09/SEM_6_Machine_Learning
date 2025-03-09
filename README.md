@@ -1,6 +1,6 @@
 #### 📌 SEM-6 Machine Learning Repository  
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Python-blue?style=for-the-badge&logo=python)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Python-yellow?style=for-the-badge&logo=python)  
 ![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)  
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)  
 
