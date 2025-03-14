@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-red?style=for-the-badge)  
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-purple?style=for-the-badge)  
 
-#### 📖 _About This Repository_
+> #### 📖 _About This Repository_
 This repository contains **lab exercises, assignments, and practical implementations** of **Machine Learning** concepts for **Semester 6**.  
 It includes hands-on coding tasks, datasets, and solutions covering key **ML algorithms, data preprocessing, model evaluation, and more**.  
 
