@@ -16,7 +16,7 @@ It includes hands-on coding tasks, datasets, and solutions covering key **ML alg
 ✅ **Neural Networks & Deep Learning**  
 ✅ **Model Evaluation & Optimization**  
 
-#### 🛠️ _Technologies Used_
+> #### 🛠️ _Technologies Used_
 - 🐍 **Python**  
 - 📊 **Pandas, NumPy**  
 - 📉 **Scikit-Learn, TensorFlow, Keras**  
