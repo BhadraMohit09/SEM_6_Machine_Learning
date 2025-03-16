@@ -17,10 +17,12 @@ It includes hands-on coding tasks, datasets, and solutions covering key **ML alg
 ✅ **Model Evaluation & Optimization**  
 
 > #### 🛠️ _Technologies Used_
+```
 - 🐍 **Python**  
 - 📊 **Pandas, NumPy**  
 - 📉 **Scikit-Learn, TensorFlow, Keras**  
 - 📈 **Matplotlib, Seaborn**  
+```
 
 > #### 📌 _How to Use_
 1. Clone the repository:  
