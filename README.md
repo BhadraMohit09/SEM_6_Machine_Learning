@@ -24,7 +24,7 @@ It includes hands-on coding tasks, datasets, and solutions covering key **ML alg
 - 📈 **Matplotlib, Seaborn**  
 ```
 
-> #### 📌 _How to Use_
+> #### 📌 `_How to Use_`
 1. Clone the repository:  
    ```sh
    git clone https://github.com/YOUR_GITHUB_USERNAME/SEM-6-Machine-Learning.git
