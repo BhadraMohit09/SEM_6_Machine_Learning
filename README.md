@@ -27,7 +27,7 @@ It includes hands-on coding tasks, datasets, and solutions covering key **ML alg
 > #### 📌 `_How to Use_`
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/SEM-6-Machine-Learning.git
+   git clone https://github.com/BhadraMohit09/SEM_6_Machine_Learning.git
    ```
 2. Change the directory:
   ```sh
